@@ -1,2 +1,2 @@
 # BOT-WARS
-A fighting game made in pygame. 
+A fighting game made pygame. 
